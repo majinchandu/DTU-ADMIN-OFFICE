@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-     "start": "node index.js",
-    "cors": "^2.8.5"
+     "start": "node index.js"
   },
   "keywords": [],
   "author": "",
